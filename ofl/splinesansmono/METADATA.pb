@@ -2,6 +2,7 @@ name: "Spline Sans Mono"
 designer: "Eben Sorkin, Mirko Velimirović"
 license: "OFL"
 category: "SANS_SERIF"
+category: "MONOSPACE"
 date_added: "2022-03-28"
 fonts {
   name: "Spline Sans Mono"
@@ -19,6 +20,10 @@ axes {
   tag: "wght"
   min_value: 300.0
   max_value: 700.0
+}
+source {
+  repository_url: "https://github.com/SorkinType/SplineSansMono"
+  commit: "fd94fa5f329b3b586fcda16a0547bca62b2269b3"
 }
 languages: "aa_Latn"  # Afar
 languages: "ace_Latn"  # Achinese
